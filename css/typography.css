@@ -1,5 +1,5 @@
 html {
-  font: normal 100%/1.5 Georgia,serif;
+  font-family: 'Nova Square', sans-serif;
 }
 
 @media only screen and (min-width: 60em) {
@@ -34,7 +34,7 @@ fieldset, pre, table {
 }
 
 .review {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Nova Square', cursive;
 }
 
 .yotta {
